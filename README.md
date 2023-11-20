@@ -1,6 +1,7 @@
+<body style="background-image: ./fondo.jpg">
+  
 ### Hi there 👋
 
-<!--
 **Afe11ay/Afe11ay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+</body>
